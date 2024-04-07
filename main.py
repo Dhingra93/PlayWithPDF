@@ -1,0 +1,2 @@
+from CreatePDF import *
+createTigerPDF()
